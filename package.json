@@ -1,0 +1,1 @@
+{"name":"ad361-lab01","version":"1.0.0","private":true,"scripts":{"test":"jest","lint":"eslint receipt.ts fixed_receipt.ts"},"devDependencies":{"@eslint/js":"^9.0.0","@types/jest":"^30.0.0","@types/node":"^22.0.0","eslint":"^9.0.0","jest":"^30.0.0","ts-jest":"^29.4.0","typescript":"^5.0.0","typescript-eslint":"^8.0.0"}}
